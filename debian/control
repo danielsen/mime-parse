@@ -1,0 +1,20 @@
+Source: libfmime
+Priority: optional
+Maintainer: Marcelo Bezerra <mosca@inova.net>
+Build-Depends: debhelper (>= 4.0.0), libgmime-2.0-2-dev | libgmime2.1-dev, libglib2.0-dev
+Standards-Version: 3.6.1
+Section: libs
+
+Package: libfmime-dev
+Section: libdev
+Architecture: any
+Depends: libfmime1 (= ${Source-Version}), libgmime-2.0-2-dev | libgmime2.1-dev, libglib2.0-dev
+Description: Small and fast read-only mime library development files
+ Small and fast read-only mime library development files
+
+Package: libfmime1
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Small and fast read-only mime library
+ Small and fast read-only mime library

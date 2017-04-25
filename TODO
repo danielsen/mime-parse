@@ -1,0 +1,7 @@
+* Parse mime parts [ok]
+* fill in mime types in fmime_part_t [replaced with function to parse content-type]
+* Free mime parts on fmime_free() [ok]
+* Run new code under valgrind
+* Test and profile on wider range of messages, with LOTS of spam,
+  as they are the most likely broken messages. :)
+* Offer function to decode mime parts

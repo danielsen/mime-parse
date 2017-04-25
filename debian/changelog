@@ -1,0 +1,21 @@
+libfmime (1.0-2) unstable; urgency=low
+
+  * Build with newer version
+
+ -- mosca <mosca@inova.net>  Thu, 14 Jun 2007 18:09:28 -0300
+
+libfmime (1.0-1) unstable; urgency=low
+
+  * First working version
+
+ -- Marcelo Bezerra <mosca@inova.net>  Thu, 14 Jun 2007 20:58:23 +0000
+
+libfmime (1.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Marcelo Bezerra <mosca@inova.net>  Thu, 14 Jun 2007 20:41:13 +0000
+
+Local variables:
+mode: debian-changelog
+End:

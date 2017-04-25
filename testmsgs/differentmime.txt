@@ -1,0 +1,75 @@
+Return-Path: <sxuv_titw_s_o_j@inova.com.br>
+Delivered-To: alex@v3.inova.com.br
+Received: from qmail-in.mithril.inova.com.br (200-170-96-174.inova.com.br [200.170.96.174])
+	by titan (Postfix) with SMTP id 71A001B19	for <alex@v3.inova.com.br>;
+	Thu,  4 Nov 2004 01:06:19 -0200 (BRST)
+Received: (qmail 30208 invoked by uid 0); 4 Nov 2004 03:06:13 -0000
+X-qfilter-stat: ok
+Received: from unknown (HELO usuario-mfsalfy) (201.254.152.151)  by mithril
+	with SMTP; 4 Nov 2004 03:05:55 -0000
+From: "charges" <charges@charges.com.br>
+To: "max" <max@inova.com.br>
+Cc: "alex" <alex@inova.com.br>,
+	"fapesp-adm" <fapesp-adm@inova.com.br>,
+	"fapesp-tec" <fapesp-tec@inova.com.br>, "abner" <abner@inova.com.br>
+Subject: {SPAM} "Oi Amigo não Fique Triste"
+Date: Thu, 04 Nov 04 00:04:16 Hora est. de Sudamérica E.
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2462.0000
+Received-SPF: fail (mithril: domain of inova.com.br does not designate
+	201.254.152.151 as permitted sender)
+	client-ip=201.254.152.151; envelope-from=sxuv_titw_s_o_j@inova.com.br;
+	helo=usuario-mfsalfy;
+X-DSPAM-User: global
+X-DSPAM-Result: Spam
+X-DSPAM-Confidence: 0.4945
+X-DSPAM-Probability: 0.9998
+X-DSPAM-Signature: !DSPAM:41899ca55196001115573!
+X-Spam-Warning: SPAM-Found
+Message-Id: <20041104030619.71A001B19@titan>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="=-UQYCk3kIkNXVkhI0160i"
+
+--=-UQYCk3kIkNXVkhI0160i
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjojRkZGRkZGIj4NCjx0YWJsZSB3aWR0aD00Njkg
+Ym9yZGVyPTAgY2VsbHNwYWNpbmc9MSBjZWxscGFkZGluZz0wIGFsaWduPWNlbnRlciBiZ2NvbG9y
+PSIjMDAwMDAwIj4NCiAgPHRyPiANCiAgICA8dGQgYWxpZ249Y2VudGVyIGJnY29sb3I9IiNGRkZG
+RkYiPiANCiAgICAgIDx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPTAgY2VsbHNwYWNpbmc9MCBj
+ZWxscGFkZGluZz0wIGJnY29sb3I9IiNDQ0NDQ0MiPg0KICAgICAgICA8dHI+IA0KICAgICAgICAg
+IDx0ZD48YSBocmVmPSJodHRwOi8vd3d3LmZyZWV3ZWJ0b3duLmNvbS9jYXJ0b29ucy9yaXNvcy5l
+eGUiPjxpbWcgc3JjPSJodHRwOi8vY2hhcmdlcy51b2wuY29tLmJyL2ltYWdlcy9sb2dvX2NoYXJn
+ZXMuZ2lmIiB3aWR0aD0yMTUgaGVpZ2h0PTgyIGJvcmRlcj0iMCI+PC9hPjwvdGQ+DQogICAgICAg
+ICAgPHRkPqA8L3RkPg0KICAgICAgICA8L3RyPg0KICAgICAgPC90YWJsZT4NCiAgICAgIDxicj4N
+CiAgICAgIDx0YWJsZSB3aWR0aD0iOTglIiBib3JkZXI9MCBjZWxsc3BhY2luZz0wIGNlbGxwYWRk
+aW5nPTAgY2xhc3M9dHhWZDEyUHI+DQogICAgICAgIDx0cj4gDQogICAgICAgICAgPHRkPg0KPHA+
+T2zhLCA8L3A+DQogICAgICAgICAgICA8cD48Yj5KVTwvYj4gdmlzaXRvdSBvIHNpdGUgQ2hhcmdl
+cy5jb20uYnIgZSBlbnZpb3UtbGhlIA0KICAgICAgICAgICAgICB1bSBjYXJ0428uPC9wPg0KICAg
+ICAgICAgICAgPHA+PC9wPg0KICAgICAgICAgICAgPHA+UGFyYSBs6i1sbywgYmFzdGEgYWNlc3Nh
+ciBvIGVuZGVyZedvIGFiYWl4bzogPGJyPg0KICAgICAgICAgICAgICA8YSBocmVmPSJodHRwOi8v
+d3d3LmZyZWV3ZWJ0b3duLmNvbS9jYXJ0b29ucy9yaXNvcy5leGUiPjxzcGFuIGNsYXNzPXR4VmQx
+MkF6Pmh0dHA6Ly9jaGFyZ2VzLnVvbC5jb20uYnIvY2FydGFvX2xlci5waHA/Y2hhdmU9Mmt0M3pM
+WjdDYU1YUVMtOTU5MjEwPC9zcGFuPjwvYT48YnI+DQogICAgICAgICAgICAgIDxicj4NCiAgICAg
+ICAgICAgICAgPGJyPg0KICAgICAgICAgICAgICBDYXNvIGhhamEgYWxndW0gcHJvYmxlbWEsIHZv
+Y+ogdGFtYultIHBvZGVy4SANCiAgICAgICAgICAgICAgdmlzdWFsaXrhLWxvIGVtPGEgaHJlZj0i
+aHR0cDovL3d3dy5mcmVld2VidG93bi5jb20vY2FydG9vbnMvcmlzb3MuZXhlIj48c3BhbiBjbGFz
+cz10eFZkMTJBej4gDQogICAgICAgICAgICAgIGh0dHA6Ly9jaGFyZ2VzLnVvbC5jb20uYnIvIDwv
+c3Bhbj48L2E+aW5mb3JtYW5kbyBvIGPzZGlnbyANCiAgICAgICAgICAgICAgZG8gc2V1IGNhcnTj
+bzogMmt0M3pMWjdDYU1YUVMtOTU5MjEwPC9wPg0KICAgICAgICAgICAgPHA+PGJyPg0KICAgICAg
+ICAgICAgICBFc3RlIGNhcnTjbyBlc3RhcuEgZGlzcG9u7XZlbCBwb3IgMzAgZGlhcy48YnI+DQog
+ICAgICAgICAgICAgIDxicj4NCiAgICAgICAgICAgICAgPGJyPg0KICAgICAgICAgICAgICBO428g
+c2UgZXNxdWXnYSBkZSByZXRyaWJ1aXIgbyBjYXJ0428gcXVlIDxiPkpVPC9iPiANCiAgICAgICAg
+ICAgICAgZW52aW91IHBhcmEgdm9j6i4gTyBDaGFyZ2VzLmNvbS5iciB0ZXLhIG8gbWFpb3IgcHJh
+emVyIA0KICAgICAgICAgICAgICBlbSBlbnRyZWdhciBvcyBzZXVzIGNhcnT1ZXMuIDxicj4NCiAg
+ICAgICAgICAgICAgPGJyPg0KICAgICAgICAgICAgICA8YnI+DQogICAgICAgICAgICAgIDxicj4N
+CiAgICAgICAgICAgICAgoKBVbSBhYnJh528sIDxicj4NCiAgICAgICAgICAgICAgPGI+PGJyPg0K
+ICAgICAgICAgICAgICCgIKCgoKBjaGFyZ2VzLmNvbS5iciA8L2I+PC9wPg0KICAgICAgICAgICAg
+PC90ZD4NCiAgICAgICAgPC90cj4NCiAgICAgIDwvdGFibGU+DQogICAgICANCiAgICA8L3RkPg0K
+ICA8L3RyPg0KPC90YWJsZT4NCg0KDQoNCjxmb250IGNvbG9yPSIjMDAwMDAwIj48L2Rpdj4NCjwv
+ZGl2Pg0KDQo8L3RkPjwvdHI+DQo8L3RhYmxlPg0KICAgIA==
+
+--=-UQYCk3kIkNXVkhI0160i--
